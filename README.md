@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # Docker Based Django Girls Tutorial Starter
 
 In order to simplify the setup for [Django Girls workshops][tutorial], let's use
